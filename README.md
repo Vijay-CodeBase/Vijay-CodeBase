@@ -6,7 +6,7 @@
 </h1>
 
 ### 🚀 About Me
-A dedicated AI and Web app developer with 2+ years of hands-on learning in AI, cloud computing, and web development. Passionate about building intelligent solutions and constantly exploring the latest advancements in technology.
+A dedicated AI and Web app developer with **2+ years of hands-on** learning in AI, cloud computing, and web development. Passionate about building intelligent solutions and constantly exploring the latest advancements in technology.
 
 ### 🔭 What I'm Working On
 - Currently diving deep into **LangChain, LangGraph**, and related AI-powered projects.
