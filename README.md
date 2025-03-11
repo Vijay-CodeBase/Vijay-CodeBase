@@ -1,4 +1,9 @@
-# 👋 Hi there, I'm Vijay!
+<h1 align="left">
+    👋 Hi there, I'm Vijay!  
+    <a href="mailto:rsvijaynkl@gmail.com" target="blank">
+        <img align="right" src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" alt="gmail" height="30" />
+    </a>
+</h1>
 
 ### 🚀 About Me
 A passionate **Fresher** exploring the world of AI, cloud computing, and full-stack development.
